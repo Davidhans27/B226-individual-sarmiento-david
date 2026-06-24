@@ -19,6 +19,6 @@ public class AssignmentOperator {
     num *= 5;
     num /= 5;
     num %= 2;
-        System.out.println(num);
+    System.out.println(num);
   }
 }
