@@ -11,6 +11,8 @@ public class ConditionalStatement {
             System.out.println("Normal Temp");
         }
     }
+}
+    /*
         float temp = 38.5f;
         
         String tempResult = temp >= 38.5 ? "Fever" : "Normal Temp";
@@ -31,7 +33,8 @@ public class ConditionalStatement {
         } else {
             numberType = "Neutral";
         }
-        System.out.println(numberType);
-}
+        System.out.println(numberType);*/
+    
+
 }
 
