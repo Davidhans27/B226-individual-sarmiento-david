@@ -34,7 +34,3 @@ public class ConditionalStatement {
             numberType = "Neutral";
         }
         System.out.println(numberType);*/
-    
-
-}
-
