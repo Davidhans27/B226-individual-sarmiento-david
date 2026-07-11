@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>JavaApplication4</name>
+=======
+            <name>B226</name>
+>>>>>>> f91d01bf8b9ef2768fec691cd1e8a2680659ef69
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
